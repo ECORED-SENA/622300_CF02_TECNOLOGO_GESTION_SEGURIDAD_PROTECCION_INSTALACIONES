@@ -27,29 +27,28 @@ export default {
       preguntas: [
         {
           id: 1,
-          texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+          texto: '¿Cuál es una función esencial del proceso administrativo?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Decorar oficinas y vitrinas.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Planear, dirigir y controlar.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Elaborar productos manuales.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Organizar ferias comerciales.',
               esCorrecta: false,
             },
           ],
@@ -58,29 +57,28 @@ export default {
         },
         {
           id: 2,
-          texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
+          texto: '¿Qué busca principalmente la planeación administrativa?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Reducir salarios del personal.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Evitar reuniones empresariales.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Anticipar acciones y objetivos.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Eliminar normas institucionales.',
               esCorrecta: false,
             },
           ],
@@ -89,29 +87,29 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
+          texto: '¿Qué elemento define la razón de ser de una empresa?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'El reglamento disciplinario.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'La estructura presupuestal.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'La política de incentivos.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto: 'La misión organizacional.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -119,29 +117,28 @@ export default {
         },
         {
           id: 4,
-          texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
+          texto: '¿Qué representa la visión organizacional?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'El futuro deseado empresarial.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'El historial contable interno.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'El manual de contratación.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'El control de inventarios.',
               esCorrecta: false,
             },
           ],
@@ -150,28 +147,28 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
+          texto: '¿Cuál técnica pertenece a la planeación cuantitativa?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Análisis de clima laboral.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Lluvia creativa de ideas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Diagrama de Gantt aplicado.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Evaluación ética empresarial.',
               esCorrecta: false,
             },
           ],
@@ -180,29 +177,28 @@ export default {
         },
         {
           id: 6,
-          texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
+          texto: '¿Qué permite identificar el análisis DOFA?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Horarios diarios de trabajo.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Fortalezas y debilidades.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Costos salariales mensuales.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Tipos de sociedades legales.',
               esCorrecta: false,
             },
           ],
@@ -211,30 +207,29 @@ export default {
         },
         {
           id: 7,
-          texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
+          texto: '¿Qué característica tiene la planeación estratégica?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Se enfoca en corto plazo.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Se aplica solo en ventas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Se limita al nivel técnico.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto: 'Proyecta metas a largo plazo.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -242,29 +237,28 @@ export default {
         },
         {
           id: 8,
-          texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
+          texto: '¿Quién desarrolla principalmente la planeación táctica?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Los mandos medios empresariales.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Los clientes de la empresa.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Los proveedores internacionales.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Los operarios de producción.',
               esCorrecta: false,
             },
           ],
@@ -273,20 +267,29 @@ export default {
         },
         {
           id: 9,
-          texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
+          texto: '¿Qué caracteriza la planeación operativa?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Define misión institucional.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Ejecuta tareas específicas.',
               esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Analiza riesgos globales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Formula políticas generales.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -294,19 +297,28 @@ export default {
         },
         {
           id: 10,
-          texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
+          texto: '¿Cuál es el propósito de la planeación contingente?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Diseñar campañas publicitarias.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Aumentar precios comerciales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Prevenir situaciones imprevistas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Eliminar procesos contables.',
               esCorrecta: false,
             },
           ],
@@ -315,19 +327,28 @@ export default {
         },
         {
           id: 11,
-          texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
+          texto: '¿Qué busca la división del trabajo?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Incrementar tareas repetitivas.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Reducir procesos productivos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Evitar funciones específicas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Especializar responsabilidades.',
               esCorrecta: true,
             },
           ],
@@ -336,19 +357,28 @@ export default {
         },
         {
           id: 12,
-          texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
+          texto: '¿Qué representa un organigrama empresarial?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Un informe financiero anual.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Una estrategia comercial externa.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'La estructura organizacional.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'El cronograma de producción.',
               esCorrecta: false,
             },
           ],
@@ -357,19 +387,28 @@ export default {
         },
         {
           id: 13,
-          texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
+          texto: '¿Cuál es una característica de la estructura lineal?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Posee mando jerárquico único.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Elimina funciones operativas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Utiliza autoridad compartida.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Funciona sin supervisores.',
               esCorrecta: false,
             },
           ],
@@ -378,20 +417,29 @@ export default {
         },
         {
           id: 14,
-          texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
+          texto: '¿Qué función cumple la dirección administrativa?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Registrar impuestos comerciales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Liderar y motivar personal.',
               esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Diseñar empaques industriales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Clasificar recursos minerales.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -399,19 +447,178 @@ export default {
         },
         {
           id: 15,
-          texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
+          texto: '¿Qué elemento fortalece la comunicación organizacional?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Información clara y efectiva.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Eliminación de reuniones grupales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Restricción total de opiniones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Centralización de documentos.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 16,
+          texto: '¿Cuál es la finalidad principal del control?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Sustituir la planeación táctica.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Medir y corregir resultados.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Incrementar costos financieros.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Crear campañas publicitarias.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 17,
+          texto: '¿Qué promueve el ciclo PHVA en las normas ISO?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Reducción de clientes activos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Eliminación del control interno.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Mejora continua organizacional.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Suspensión de auditorías técnicas.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 18,
+          texto: '¿Qué caracteriza a una persona jurídica?',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Carece de obligaciones legales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Solo puede tener un dueño.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'No requiere representación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Tiene derechos y obligaciones.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 19,
+          texto: '¿Qué sector económico transforma materias primas?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Sector secundario industrial.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Sector financiero bancario.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Sector cuaternario digital.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Sector agrícola extractivo.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 20,
+          texto: '¿Qué identifica el código CIIU empresarial?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'El salario de trabajadores.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'La actividad económica realizada.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'El número de accionistas activos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'La ubicación física empresarial.',
               esCorrecta: false,
             },
           ],

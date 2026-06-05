@@ -268,11 +268,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -304,13 +299,156 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Administración',
+      significado:
+        'Proceso de planear, organizar, dirigir y controlar recursos para alcanzar objetivos.',
+    },
+    {
+      termino: 'Código CIIU',
+      significado:
+        'Sistema de clasificación de actividades económicas empresariales.',
+    },
+    {
+      termino: 'Control',
+      significado:
+        'Función administrativa orientada a verificar resultados y aplicar correctivos.',
+    },
+    {
+      termino: 'Dirección',
+      significado:
+        'Etapa administrativa relacionada con liderazgo, motivación y supervisión.',
+    },
+    {
+      termino: 'Empresa',
+      significado:
+        'Organización económica dedicada a producir bienes o servicios.',
+    },
+    {
+      termino: 'Estrategia',
+      significado:
+        'Conjunto de acciones orientadas al logro de objetivos organizacionales.',
+    },
+    {
+      termino: 'Estructura organizacional',
+      significado:
+        'Forma en que se distribuyen cargos y funciones dentro de una empresa.',
+    },
+    {
+      termino: 'Liderazgo',
+      significado:
+        'Capacidad de influir y orientar personas hacia objetivos comunes.',
+    },
+    {
+      termino: 'Misión',
+      significado: 'Razón de ser y propósito principal de una organización.',
+    },
+    {
+      termino: 'Organigrama',
+      significado: 'Representación gráfica de la estructura organizacional.',
+    },
+    {
+      termino: 'Organización',
+      significado: 'Proceso de distribuir funciones y coordinar recursos.',
+    },
+    {
+      termino: 'Planeación',
+      significado: 'Proceso de definir objetivos y acciones futuras.',
+    },
+    {
+      termino: 'Planeación contingente',
+      significado:
+        'Planeación orientada a responder ante situaciones imprevistas.',
+    },
+    {
+      termino: 'Planeación estratégica',
+      significado: 'Planeación de largo plazo enfocada en objetivos generales.',
+    },
+    {
+      termino: 'Planeación operativa',
+      significado: 'Planeación detallada de actividades cotidianas.',
+    },
+    {
+      termino: 'Planeación táctica',
+      significado: 'Planeación de mediano plazo enfocada en áreas específicas.',
+    },
+    {
+      termino: 'Proceso administrativo',
+      significado: 'Conjunto de etapas administrativas interrelacionadas.',
+    },
+    {
+      termino: 'Visión',
+      significado: 'Proyección futura deseada de la organización.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Bernal Torres, C. A. (2007). Introducción a la administración de las organizaciones. Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Chiavenato, I. (2000). Introducción a la teoría general de la administración. McGraw-Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'Chiavenato, I. (2016). Planeación estratégica: Fundamentos y aplicaciones.',
+      link:
+        'https://www.gob.mx/cms/uploads/attachment/file/911563/127-Planeacion-estrategica-fundametos-chiavenato-idalberto.pdf',
+    },
+    {
+      referencia: 'Código de Comercio de Colombia. (2021). LEGIS.',
+      link: '',
+    },
+    {
+      referencia:
+        'Daft, R. L., & Marcic, D. (2011). Teoría y diseño organizacional (10.ª ed.). Cengage Learning.',
+      link: '',
+    },
+    {
+      referencia:
+        'David, F. R. (2008). Conceptos de administración estratégica (10.ª ed.).',
+      link: '',
+    },
+    {
+      referencia:
+        'Drucker, P. F. (2014). La gerencia efectiva. Harper Collins.',
+      link: '',
+    },
+    {
+      referencia:
+        'Hellriegel, D. (2020). Administración: Un enfoque basado en competencias. Cengage Learning Editores.',
+      link: '',
+    },
+    {
+      referencia:
+        'Hernández, S. (1994). Introducción a la administración: Un enfoque teórico práctico. McGraw-Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'International Organization for Standardization (ISO). (2015). ISO 9001:2015 Sistemas de gestión de la calidad — Requisitos.',
+      link: '',
+    },
+    {
+      referencia:
+        'International Organization for Standardization (ISO). (2018). ISO 18788: Sistema de gestión para operaciones de seguridad.',
+      link: '',
+    },
+    {
+      referencia:
+        'Koontz, H., Weihrich, H., & Cannice, M. (2012). Administración: Una perspectiva global y empresarial. McGraw-Hill.',
+      link: '',
+    },
+    {
+      referencia:
+        'Münch Galindo, L. (s.f.). Planeación estratégica: El rumbo hacia el éxito.',
+      link: '',
+    },
+    {
+      referencia:
+        'Robbins, S. P., & Coulter, M. (2018). Administración (14.ª ed.). Pearson.',
       link: '',
     },
   ],
@@ -319,59 +457,111 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Profesional 06 - Responsable ecosistema virtual de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Olga Constanza Bermúdez',
+          cargo: 'Responsable de Línea de Producción Huila',
+          centro: 'Dirección General',
         },
       ],
     },
+
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Paola Andrea Tello Zambrano',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Juan José Calderon Gutiérrez',
+          cargo: 'Diseñador de contenidos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
+          cargo: 'Desarrollador fullstack',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ricardo Oliveros Zambrano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
