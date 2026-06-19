@@ -210,8 +210,8 @@
           img(src="@/assets/curso/temas/img21.png", alt="").m-auto
     Separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.4 Proceso Administrativo
-    p.mb-5 En la presente sección se analizará el origen, la importancia, concepto, etapas y funciones del proceso administrativo:
+      h2 1.4 Proceso administrativo
+    p.mb-5 En la presente sección se analizará el origen, la importancia, el concepto, las etapas y las funciones del proceso administrativo:
     TabsC.color-acento-contenido.mb-0(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Origen e importancia")
         .row.justify-content-center.align-items-center

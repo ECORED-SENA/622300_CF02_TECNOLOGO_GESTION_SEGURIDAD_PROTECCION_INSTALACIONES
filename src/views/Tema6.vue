@@ -58,7 +58,7 @@
                   .col-8
                     img(src='@/assets/curso/temas/img104.svg' style="max-width: 90px").m-auto
                 h4.mb-3.estilo-text ISO 18788
-                p.mb-0.text-center Sistemas de Gestión de Operaciones de Seguridad Privada.
+                p.mb-0.text-center Sistemas de gestión de operaciones de seguridad privada.
         Separador
         #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 6.2 Características generales y principios de gestión de calidad

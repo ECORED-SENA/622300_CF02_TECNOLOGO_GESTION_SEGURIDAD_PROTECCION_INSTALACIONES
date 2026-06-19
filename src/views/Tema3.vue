@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Organización
-    p Una vez finalizada esta etapa de planificación estratégica con sus respectivas técnicas y variables, la organización adquiere una visión clara sobre su rumbo, sus propósitos y finalidades. Este proceso permite dar paso a la siguiente fase del ciclo administrativo: organización es donde se definen las estructuras y mecanismos necesarios para ejecutar lo planeado.
+    p Una vez finalizada esta etapa de planificación estratégica con sus respectivas técnicas y variables, la organización adquiere una visión clara sobre su rumbo, sus propósitos y finalidades. Este proceso permite dar paso a la siguiente fase del ciclo administrativo: organización, que es donde se definen las estructuras y mecanismos necesarios para ejecutar lo planeado.
     .row.justify-content-center.align-items-center.mb-0
       .col-lg.mb-4.mb-lg-0
         .caja-1.mb-3(data-aos="fade-right")
@@ -151,7 +151,7 @@
                 .lista-ol--cuadro__vineta
                   span 3
                 | 
-                p.mb-0 Hacer uso adecuado de las oportunidades teniendo en cuenta las metodologías implementadas, destacando las que permitieron resultados favorables. 
+                p.mb-0 Hacer uso adecuado de las oportunidades, teniendo en cuenta las metodologías implementadas, destacando las que permitieron resultados favorables. 
     p.mb-5 Los organigramas son representaciones gráficas de la estructura organizacional que permiten visualizar niveles jerárquicos, áreas y relaciones dentro de la empresa. Estos se clasifican principalmente por:
     TabsC.color-acento-contenido.mb-0(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Por su ámbito")

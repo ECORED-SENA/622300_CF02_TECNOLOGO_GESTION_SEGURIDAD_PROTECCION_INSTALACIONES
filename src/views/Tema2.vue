@@ -39,7 +39,7 @@
           img(src="@/assets/curso/temas/img32.svg" style="max-width: 60px").m-auto
       .col
         h3 Técnicas cuantitativas 
-    p.mb-5 Las técnicas cuantitativas utilizan datos numéricos y herramientas de análisis para apoyar la planeación, la toma de decisiones y el control de proyectos organizacionales. En este apartado se conocerá las principales técnicas existentes:
+    p.mb-5 Las técnicas cuantitativas utilizan datos numéricos y herramientas de análisis para apoyar la planeación, la toma de decisiones y el control de proyectos organizacionales. En este apartado se conocerán las principales técnicas existentes:
     .row.mb-5
       .col-xl-auto(data-aos="fade-right")
         figure.d-none.d-xl-block
@@ -77,9 +77,9 @@
           .row(titulo="Análisis DOFA").ajuste-cajaAcordion
             p.mb-3 La DOFA (Fortalezas, Debilidades, Oportunidades y Amenazas) es una herramienta estratégica que permite evaluar la situación interna y externa de la organización para identificar áreas de mejora y oportunidades. 
           .row(titulo="Análisis CAME").ajuste-cajaAcordion
-            p.mb-3 El análisis CAME (Corregir, Afrontar, Mantener, Explotar), es una técnica que se deriva del análisis FODA y ayuda a desarrollar estrategias para aprovechar las oportunidades y mitigar las amenazas. 
-          .row(titulo="Lluvia de Ideas (<em>Brainstorming</em>)").ajuste-cajaAcordion
-            p.mb-3 La técnica de Lluvia de Ideas (#[i Brainstorming]) fomenta la generación de ideas creativas para la resolución de problemas y la toma de decisiones.
+            p.mb-3 El análisis CAME (Corregir, Afrontar, Mantener, Explotar) es una técnica que se deriva del análisis FODA y ayuda a desarrollar estrategias para aprovechar las oportunidades y mitigar las amenazas. 
+          .row(titulo="Lluvia de ideas (<em>Brainstorming</em>)").ajuste-cajaAcordion
+            p.mb-3 La técnica de Lluvia de ideas (#[i Brainstorming]) fomenta la generación de ideas creativas para la resolución de problemas y la toma de decisiones.
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Herramientas de #[i software] para la planeación
@@ -90,9 +90,10 @@
           SlyderA(tipo="b")
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Sistemas de Planificación de Recursos Empresariales (ERP)
+                h4 Sistemas de planificación de recursos empresariales (ERP)
                 p Los sistemas ERP integran y gestionan procesos empresariales relacionados con proyectos, finanzas, recursos humanos, inventarios y cadena de suministro.
                 h5.mb-0 Ejemplos:
+                h5
                 ul.fa-ul.estilo___ul.mb-0
                   li.mb-0
                     span.fa-li
@@ -114,23 +115,24 @@
                 h4 #[i Software] de gestión de proyectos
                 p Estos programas permiten planificar, ejecutar y controlar proyectos mediante la asignación de recursos, seguimiento de actividades y control de tiempos.
                 h5.mb-0 Ejemplos:
+                h5
                 ul.fa-ul.estilo___ul.mb-0
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Trello. 
+                    | Trello 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Jira. 
+                    | Jira 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Asana. 
+                    | Asana 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Basecamp.
+                    | Basecamp
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img36.png', alt='' style="max-width: 500px").m-auto
@@ -283,7 +285,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La planeación estratégica u organizacional define el rumbo general de la empresa mediante la misión, visión, principios y objetivos institucionales (Chiavenato, 2019). Además, orienta la toma de decisiones y proyecta el futuro organizacional mediante estrategias y metas que favorecen el crecimiento y la sostenibilidad empresarial (Koontz, Weihrich & Cannice, 2012; Robbins & Coulter, 2018).
-    p.mb-5 El plan estratégico es como un rompecabezas, compuesto por diferentes piezas las cuales se presentan a continuación: 
+    p.mb-5 El plan estratégico es como un rompecabezas, compuesto por diferentes piezas, las cuales se presentan a continuación: 
     .row.align-items-center.mb-5
       .col-xl-6.mb-4.mb-lg-0(data-aos="fade-right")
         LineaTiempoD.color-secundario

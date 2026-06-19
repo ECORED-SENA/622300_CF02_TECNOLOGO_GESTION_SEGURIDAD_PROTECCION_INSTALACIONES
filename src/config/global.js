@@ -152,7 +152,7 @@ export default {
           },
           {
             numero: '4.5',
-            titulo: 'Etapas de la Dirección ',
+            titulo: 'Etapas de la dirección ',
             hash: 't_4_5',
           },
         ],

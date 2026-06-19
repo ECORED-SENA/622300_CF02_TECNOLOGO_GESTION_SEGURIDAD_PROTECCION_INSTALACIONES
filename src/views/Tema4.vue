@@ -72,7 +72,7 @@
       .col-xl
         AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-right")
           .row(titulo="Resolución de conflictos").ajuste-cajaAcordion
-            p.mb-3 El liderazgo implica gestionar y resolver conflictos internos de manera constructiva, fortaleciendo las relaciones laborales Hellriegel, Jackson & Slocum (2020).
+            p.mb-3 El liderazgo implica gestionar y resolver conflictos internos de manera constructiva, fortaleciendo las relaciones laborales (Hellriegel, Jackson & Slocum, 2020).
           .row(titulo="Desarrollo de talento").ajuste-cajaAcordion
             p.mb-3 La dirección debe promover la capacitación, el crecimiento y el empoderamiento del personal (Northouse, 2021).
           .row(titulo="Ejemplo y ética").ajuste-cajaAcordion
@@ -155,7 +155,7 @@
           img(src="@/assets/curso/temas/img79.png" ).m-auto
     Separador
     #t_4_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.5 Etapas de la Dirección 
+      h2 4.5 Etapas de la dirección 
     p.mb-5 Las etapas de dirección son las siguientes:
     .row.justify-content-center.mb-0
       .col-lg-10

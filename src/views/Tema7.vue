@@ -57,7 +57,7 @@
     Separador
     #t_7_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 7.3 Persona jurídica
-    p.mb-5 A continuación, se estudiará el concepto de persona jurídica y las características:
+    p.mb-5 A continuación, se estudiará el concepto de persona jurídica y sus características:
     TabsC.color-acento-contenido.mb-0(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Concepto")
         .row.justify-content-center.align-items-center
@@ -165,15 +165,15 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Empresa privada: pertenece a individuos o corporaciones particulares. 
+                    | #[b Empresa privada:] pertenece a individuos o corporaciones particulares. 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Empresa pública: es propiedad del Estado o del gobierno. 
+                    | #[b Empresa pública:] es propiedad del Estado o del gobierno. 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Empresa mixta: combina capital del sector público y privado.
+                    | #[b Empresa mixta:] combina capital del sector público y privado.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img125.png', alt='' style="max-width: 500px").m-auto
@@ -185,11 +185,11 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Con ánimo de lucro: buscan obtener rentabilidad financiera y crecimiento económico.
+                    | #[b Con ánimo de lucro:] buscan obtener rentabilidad financiera y crecimiento económico.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Sin ánimo de lucro: persiguen fines sociales, culturales, ambientales o educativos.
+                    | #[b Sin ánimo de lucro:] persiguen fines sociales, culturales, ambientales o educativos.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img126.png', alt='' style="max-width: 500px").m-auto
