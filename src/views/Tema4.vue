@@ -83,7 +83,7 @@
     p.mb-5 Como apoyo complementario para fortalecer la comprensión de los contenidos abordados en este tema y su aplicación dentro del contexto organizacional, se invita a reproducir el siguiente video:
     figure(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/EixXlk5-IpM?si=a6uB_tv3QBGoIhyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption #[b Video]. Estilos de dirección empresarial
     Separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -147,7 +147,7 @@
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="La dirección como motor de la organización"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/curso/podcast/direccion.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto.d-none.d-xl-block

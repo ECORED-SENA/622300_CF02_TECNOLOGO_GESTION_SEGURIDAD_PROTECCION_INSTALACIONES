@@ -15,7 +15,7 @@
     p.mb-5 Lo invitamos a consultar el siguiente video como recurso complementario para fortalecer la comprensión del control dentro del proceso administrativo, reconociendo su importancia en el seguimiento, evaluación y cumplimiento de los objetivos organizacionales.
     figure(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/HO6UIh3l6BU?si=6zpVNzsSSQb7W8pG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption #[b Video]. Proceso administrativo: fase control.
     Separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")

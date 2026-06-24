@@ -252,7 +252,7 @@
     p.mb-5 El siguiente video presenta una explicación general sobre la planeación estratégica y su importancia en la definición de acciones y objetivos para el fortalecimiento organizacional.
     figure(data-aos="zoom-in").mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/6jII6tR0a4A?si=K7Tqugy2trTtrXw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption #[b Video]. Proceso de planeación
     p.mb-5 Las características de la planeación estratégica son:
     .row.align-items-center.mb-5

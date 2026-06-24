@@ -29,7 +29,7 @@
     p.mb-5 En el siguiente video se presentará, de forma general, la temática que se estudiará a lo largo del componente formativo.
     figure(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/tKKfR9wzaJk?si=3Oyqv0P1kpXamlpF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption #[b Video]. Introducción a la administración
         
 </template>
