@@ -98,15 +98,15 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Oracle NetSuite. 
+                    | Oracle NetSuite
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | SAP Business One. 
+                    | SAP Business One
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Acumatica Cloud ERP.
+                    | Acumatica Cloud ERP
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img35.png', alt='' style="max-width: 500px").m-auto
@@ -145,15 +145,15 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Infor SCM. 
+                    | Infor SCM 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | SAP SCM. 
+                    | SAP SCM 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Oracle Supply Chain Planning.
+                    | Oracle Supply Chain Planning
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img37.png', alt='' style="max-width: 500px").m-auto
@@ -166,19 +166,19 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Trello. 
+                    | Trello 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Wrike. 
+                    | Wrike 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Jira. 
+                    | Jira 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Businessmap.
+                    | Businessmap
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img38.png', alt='' style="max-width: 500px").m-auto
@@ -191,19 +191,19 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | SIIGO nube. 
+                    | SIIGO nube 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | QuickBooks. 
+                    | QuickBooks 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Excel. 
+                    | Excel
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Holded.
+                    | Holded
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img39.png', alt='' style="max-width: 500px").m-auto
@@ -216,19 +216,19 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Monday.com. 
+                    | Monday.com 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | ClickUp. 
+                    | ClickUp 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | GanttProject. 
+                    | GanttProject 
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Smartsheet.
+                    | Smartsheet
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img40.png', alt='' style="max-width: 500px").m-auto
@@ -241,7 +241,7 @@
         figure
           img(src="@/assets/curso/temas/img32.svg" style="max-width: 60px").m-auto
       .col
-        h3 Planeación Estratégica
+        h3 Planeación estratégica
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-auto.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
         figure
@@ -312,7 +312,7 @@
         figure
           img(src="@/assets/curso/temas/img32.svg" style="max-width: 60px").m-auto
       .col
-        h3 Planeación Táctica
+        h3 Planeación táctica
     .row.justify-content-center.align-items-center.mb-5
       .col-lg.mb-4.mb-lg-0
         .caja-1.mb-3(data-aos="fade-right")
